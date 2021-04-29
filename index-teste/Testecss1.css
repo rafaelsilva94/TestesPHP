@@ -1,0 +1,30 @@
+body{
+	background: White;
+}
+h1{
+	color: black;
+	border: solid;
+	background: White;
+}
+
+h2{
+	color: black;
+	border: solid;
+	background: White;
+}
+
+p{
+	color:black;
+	font-size:50px;
+}
+
+label{
+		color:black;
+}
+
+.botao{
+		color:black;
+		background: White;
+		border-colo: black;
+		border: solid;
+}
